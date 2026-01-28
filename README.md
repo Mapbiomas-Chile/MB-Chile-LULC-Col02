@@ -24,14 +24,11 @@ Capas auxiliares y utilidades (máscaras, estadísticas, impresión de áreas, t
 
 ## 🔗 Recursos del producto
 
-- 🌐 Plataforma MapBiomas Chile — Resultados LULC  
-  https://plataforma.mapbiomas.org/coverage/coverage_lclu?t[regionKey]=chile&t[ids][]=20-1-1&t[divisionCategoryId]=2&tl[id]=1&tl[themeKey]=coverage&tl[subthemeKey]=coverage_lclu&tl[pixelValues][]=59&tl[pixelValues][]=60&tl[pixelValues][]=67&tl[pixelValues][]=11&tl[pixelValues][]=12&tl[pixelValues][]=29&tl[pixelValues][]=63&tl[pixelValues][]=66&tl[pixelValues][]=9&tl[pixelValues][]=15&tl[pixelValues][]=18&tl[pixelValues][]=33&tl[pixelValues][]=34&tl[pixelValues][]=27&tl[pixelValues][]=23&tl[pixelValues][]=24&tl[pixelValues][]=25&tl[pixelValues][]=61&tl[legendKey]=default&tl[year]=2024
+- 🌐 [Plataforma MapBiomas Chile — Resultados LULC](https://plataforma.mapbiomas.org/coverage/coverage_lclu?t[regionKey]=chile&t[ids][]=20-1-1&t[divisionCategoryId]=2&tl[id]=1&tl[themeKey]=coverage&tl[subthemeKey]=coverage_lclu&tl[pixelValues][]=59&tl[pixelValues][]=60&tl[pixelValues][]=67&tl[pixelValues][]=11&tl[pixelValues][]=12&tl[pixelValues][]=29&tl[pixelValues][]=63&tl[pixelValues][]=66&tl[pixelValues][]=9&tl[pixelValues][]=15&tl[pixelValues][]=18&tl[pixelValues][]=33&tl[pixelValues][]=34&tl[pixelValues][]=27&tl[pixelValues][]=23&tl[pixelValues][]=24&tl[pixelValues][]=25&tl[pixelValues][]=61&tl[legendKey]=default&tl[year]=2024)
 
-- 📘 ATBD LULC Collection 02  
-  https://chile.mapbiomas.org/wp-content/uploads/sites/13/2025/10/ATBD_Chile_Coll_2.docx.pdf
+- 📘 [ATBD LULC Collection 02](https://chile.mapbiomas.org/wp-content/uploads/sites/13/2025/10/ATBD_Chile_Coll_2.docx.pdf)
 
-- 🌎 MapBiomas Network  
-  https://mapbiomas.org  
+- 🌎 [MapBiomas Network](https://mapbiomas.org)
 
 ---
 
