@@ -43,9 +43,3 @@ Capas auxiliares y utilidades (máscaras, estadísticas, impresión de áreas, t
 
 - Los scripts están pensados para ejecutarse desde el Code Editor de Google Earth Engine.  
 - Las rutas de assets pueden requerir adaptación según usuario/proyecto.
-
----
-
-## 📄 Licencia
-
-MIT
