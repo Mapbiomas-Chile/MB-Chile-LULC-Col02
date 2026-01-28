@@ -28,7 +28,7 @@ Capas auxiliares y utilidades (máscaras, estadísticas, impresión de áreas, t
 
 - 📘 [ATBD LULC Collection 02](https://chile.mapbiomas.org/wp-content/uploads/sites/13/2025/10/ATBD_Chile_Coll_2.docx.pdf)
 
-- 🌎 [MapBiomas Network](https://mapbiomas.org)
+- 🌎 [MapBiomas Chile](https://chile.mapbiomas.org/)
 
 ---
 
