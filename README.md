@@ -35,8 +35,7 @@ Capas auxiliares y utilidades (máscaras, estadísticas, impresión de áreas, t
 ## 🧪 Tecnologías
 
 - Google Earth Engine (JavaScript)  
-- Landsat Collection 2  
-- Sentinel-2  
+- Landsat Collection   
 
 ---
 
