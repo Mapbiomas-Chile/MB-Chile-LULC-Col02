@@ -7,7 +7,7 @@ The scripts implement a step-by-step pipeline for generating urban masks, prepar
 
 ## 📘 Documentation
 
-- 📄 **ATBD – Urban Product (Collection 2)**(https://drive.google.com/file/d/1ERj6x66Eh4lHWUzqMFxH-2Tjcxv3pKfJ/view?usp=sharing)
+- 📄 [**ATBD – Urban Product (Collection 2)**](https://drive.google.com/file/d/1ERj6x66Eh4lHWUzqMFxH-2Tjcxv3pKfJ/view?usp=sharing)
 
 ---
 
